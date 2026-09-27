@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Large datasets
+dataset/
+temp_dataset/
+
+# Generated submission files
+submission/output/
+
+# Generated ZIP
+*.zip
+
+# Model files
+*.joblib
+*.pkl
+*.pickle
+
+# Python cache
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
